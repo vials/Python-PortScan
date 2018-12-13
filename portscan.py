@@ -28,3 +28,8 @@ def clear():
 
 if __name__ == '__main__':
 	main()
+'''
+Ensure you have nmap installed
+Ensure you leave credits if you wish you use this script. Credits are nice and any dev likes that!
+Enjoy.
+'''
